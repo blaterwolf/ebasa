@@ -1,0 +1,7 @@
+# EBASA Application Project Changelog
+
+## 0.1.0
+- Project Initialization 
+- 20% done for the project. Login function have been established in this part.
+- Admin page is linking properly. Librarian and Resident pages to be updated.
+- `assets` folder containing the css and images will be updated soon once images are properly established.
